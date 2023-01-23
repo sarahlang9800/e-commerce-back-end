@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"name": "e-commerce-back-end",
+			"path": "."
+		},
+		{
+			"name": "seeds",
+			"path": "../class work/UNCC-VIRT-FSF-PT-10-2022-U-LOLC-13/13-ORM/02-Challenge/Develop/seeds"
+		},
+		{
+			"name": "config",
+			"path": "../class work/UNCC-VIRT-FSF-PT-10-2022-U-LOLC-13/13-ORM/02-Challenge/Develop/config"
+		},
+		{
+			"name": "db",
+			"path": "../class work/UNCC-VIRT-FSF-PT-10-2022-U-LOLC-13/13-ORM/02-Challenge/Develop/db"
+		},
+		{
+			"name": "models",
+			"path": "../class work/UNCC-VIRT-FSF-PT-10-2022-U-LOLC-13/13-ORM/02-Challenge/Develop/models"
+		},
+		{
+			"name": "routes",
+			"path": "../class work/UNCC-VIRT-FSF-PT-10-2022-U-LOLC-13/13-ORM/02-Challenge/Develop/routes"
+		}
+	],
+	"settings": {}
+}
